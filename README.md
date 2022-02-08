@@ -29,7 +29,7 @@ look and was VERY impressed. With the concept of migrations _most_ data model
 updates are relatively straightforward. This is directly analogous to what
 enterprise software tools have done in the ITSM space for more than 20 years
 (Remedy, OpenView, Peregrine, ServiceNow) except that Django is built on an
-industry standard open source and increasingly populate language - Python.
+industry standard open source and increasingly popular language - Python.
 
 As for React, sure it is cool, but it will probably be superseded by yet another
 Javascript framework, these seem to have a half life of about 3 years. However I
