@@ -7,7 +7,7 @@ These steps are required to run the backend after build is completed.
 
 1. Change to backend director `cd backend`
 1. Activate venv `source ./venv/bin/activate`
-1. Start Development Webserver `python manage.py runserver 22010`
+1. Start Development Webserver `python manage.py runserver 22310`
 
 ### Fresh Build
 
@@ -20,7 +20,7 @@ These steps are required for a fresh build from the git repository.
 1. Install dependencies `pip install -r requirements.txt`
 1. Run migrations `python manage.py migrate`
 1. Create superuser `python manage.py createsuperuser`
-1. Start Development Webserver `python manage.py runserver 22010`
+1. Start Development Webserver `python manage.py runserver 22310`
 
 ### Cleanup
 
@@ -41,4 +41,4 @@ These steps are required to start from an empty database
 1. Delete database `rm -f db.sqlite3`
 1. Run migrations `python manage.py migrate`
 1. Create superuser `python manage.py createsuperuser`
-1. Start Development Webserver `python manage.py runserver 22010`
+1. Start Development Webserver `python manage.py runserver 22310`
